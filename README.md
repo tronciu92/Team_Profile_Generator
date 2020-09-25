@@ -57,10 +57,10 @@ hw details/           // personal reference to hw requirements
 
 # visual example of functionality
 
-TPG Application
+Application
 ![demo](/gif/tpg_GIF.gif)
 
-TPG tests
+Run test
 ![demo](/gif/run_test.gif)
 
 
